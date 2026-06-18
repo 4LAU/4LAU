@@ -8,7 +8,7 @@
 
 - 🔍 **[apisniff](https://github.com/4LAU/apisniff)** - Probe API infrastructure, capture live traffic through a local proxy, generate OpenAPI specs automatically
 - 🔀 **[Codex Profile Switcher](https://github.com/4LAU/codex-profile-switcher)** - macOS menu bar app for one-click swaps between multiple OpenAI Codex profiles
-- 🔭 **Argus System** (closed-source) - LLMs have been trained on everything humanity has achieved. The Argus System exists to reason about everything humanity has yet to achieve.
+- 🔭 **Argus System** (closed-source) - The Argus System trains LLMs to reason about everything humanity has yet to achieve and what does not yet exist.
 - 🥇 **[goldlogger.com](https://goldlogger.com)** (closed-source) - Real-time gold inventory and bid/ask prices from the largest wholesale buyer groups
 - ⛳ **[gimmeteetimes.com](https://gimmeteetimes.com)** (closed-source) - Golf tee time alert and autobooking system
 - 🖱️ **Mouse Trajectory Synthesis** (closed-source) - ML research into generating synthetic human mouse movements indistinguishable from real behavior
